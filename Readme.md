@@ -1,6 +1,6 @@
-# Faz intersecção de duas listas
+# Fazer intersecção de duas listas
 
-Uma necessidade recorrente é identificar valores que aparecem em dois conjuntos. Por exemplo, sabendo que usuários que acessam um sistema são registrados em um arquivo, poed-se querer saber que usuários acessaram o sistema em duas datas específicas. A generalização de uma solução pode ser feita por meio da intersecção de duas listas: o resultado seria uma nova lista contendo todos os valores que aparecem em ambas as listas. 
+Uma necessidade recorrente é identificar valores que aparecem em dois conjuntos. Por exemplo, sabendo que usuários que acessam um sistema são registrados em um arquivo, pode-se querer saber que usuários acessaram o sistema em duas datas específicas. Assim, há um conjunto de usuários que acessu o sistema em uma data, e outro conjunto daqueles que acessaram na outra data, e desej-ase obter a intersecção desses dois conjuntos. A generalização de uma solução pode ser feita por meio da intersecção de duas listas: o resultado seria uma nova lista contendo todos os valores que aparecem em ambas as listas. 
 
 A função _interseccao_ implementa exatamente  isso:
 
